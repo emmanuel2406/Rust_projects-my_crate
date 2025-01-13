@@ -1,8 +1,8 @@
 [package]
 name = "very_basic_crate"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
-description = "A very basic crate to add one."
+description = "A very basic crate to add one or two."
 license = "MIT OR Apache-2.0"
 
 [dependencies]

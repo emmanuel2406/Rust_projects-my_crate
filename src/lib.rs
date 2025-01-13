@@ -23,13 +23,32 @@ pub fn add_one(x: i32) -> i32 {
     x + 1
 }
 
+/// Adds two to the number given
+///
+/// # Examples
+///
+/// ```
+/// let arg = 6;
+/// let answer = my_crate::add_two(arg);
+///
+/// assert_eq!(8, answer);
+/// ```
+
+pub fn add_two(x: i32) -> i32 {
+    x + 2
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;
 
     #[test]
-    fn it_works() {
+    fn add_one_works() {
         let result = add_one(2);
         assert_eq!(result, 3);
+    }
+    fn add_two_works() {
+        let result = add_two(2);
+        assert_eq!(result, 4);
     }
 }

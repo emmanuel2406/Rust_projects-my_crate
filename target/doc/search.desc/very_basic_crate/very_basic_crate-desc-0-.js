@@ -1,0 +1,1 @@
+searchState.loadedDescShard("very_basic_crate", 0, "My Crate\nAdds one to the number given.\nAdds two to the number given")
