@@ -1,0 +1,1 @@
+/Users/emmanuelrassou/Desktop/Academics\ -\ Harvard/Rust/Rust_projects/my_crate/target/package/very_basic_crate-0.2.0/target/debug/libvery_basic_crate.rlib: /Users/emmanuelrassou/Desktop/Academics\ -\ Harvard/Rust/Rust_projects/my_crate/target/package/very_basic_crate-0.2.0/src/lib.rs
